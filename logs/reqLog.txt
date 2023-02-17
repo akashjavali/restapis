@@ -1,0 +1,3 @@
+20230217	14:35:04	458e3d38-90f5-4fda-a365-b02a1237b976	POST	undefined	/api/auth
+20230217	14:35:15	3148def9-a3f3-480c-af3f-e4ad0a7a0dee	GET	undefined	/api/products/63ee1afb0e7d1b7bb30fb642
+20230217	14:49:42	2810cf91-77d4-4203-80a3-5d31ffa6a9c6	GET	undefined	/api/products?page=1&limit=3

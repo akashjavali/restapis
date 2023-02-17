@@ -56,7 +56,6 @@ const handleGetPublishedProducts = async (req, res) => {
 
 /* Submit the Product */
 const handlePostProduct = async (req, res) => {
-    console.log(req, 'req');
     const product = new Product({
         name: req.body.name,
         description: req.body.description,
