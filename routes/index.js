@@ -4,7 +4,6 @@ const router = express.Router();
 
 const verifyJWT = require('../middleware/verifyJWT');
 
-const postsRoute = require('./posts');
 const productsRoute = require('./products');
 const registerRoute = require('./register');
 const authRoute = require('./auth');
@@ -21,7 +20,6 @@ router.use(verifyJWT);
 
 /* Import Routes */
 router.use('/users', registerRoute);
-router.use('/posts', postsRoute);
 router.use('/products', productsRoute);
 
 module.exports = router;

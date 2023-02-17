@@ -13,4 +13,10 @@ router.post(
     registerController.handleNewUser
 );
 
+router.put(
+    '/:userId',
+    verifyRoles(ROLES_LIST.Admin),
+    registerController.handleUpdateUser
+);
+
 module.exports = router;
