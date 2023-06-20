@@ -16,9 +16,6 @@ router.get('/published', productController.handleGetPublishedProducts);
 /* Submit the Product */
 router.post('/', productController.handlePostProduct);
 
-/* Submit the Post by User */
-// router.post('/:userId', productController.handlePostProductByUser);
-
 /* Update the Post */
 router.put('/:productId', productController.handleUpdateProduct);
 

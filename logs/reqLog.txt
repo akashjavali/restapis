@@ -1,3 +1,8 @@
 20230217	14:35:04	458e3d38-90f5-4fda-a365-b02a1237b976	POST	undefined	/api/auth
 20230217	14:35:15	3148def9-a3f3-480c-af3f-e4ad0a7a0dee	GET	undefined	/api/products/63ee1afb0e7d1b7bb30fb642
 20230217	14:49:42	2810cf91-77d4-4203-80a3-5d31ffa6a9c6	GET	undefined	/api/products?page=1&limit=3
+20230217	17:20:09	2d3e4bbd-5147-4473-ba2b-1149cdea1496	POST	undefined	/api/auth
+20230217	17:21:18	2d33fff9-8338-46c2-bb8d-cc235cac3550	POST	undefined	/api/products
+20230217	17:23:38	b7e74369-23d8-471e-ad28-aabc40786289	POST	undefined	/api/products
+20230217	17:24:16	b8dd175a-7201-4328-8725-66aca6281818	GET	undefined	/api/products/
+20230217	17:24:28	6a34b539-43cb-4f2b-9b9a-92cd66273197	GET	undefined	/api/products/63e4a78d5dec45e731bec135
